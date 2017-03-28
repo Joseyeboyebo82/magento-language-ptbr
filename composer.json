@@ -1,0 +1,8 @@
+{
+    "name": "brainup/magento-language-ptbr",
+    "type": "magento-module",
+    "description": "This module install locale ptbr Magento 1.9.x by Mario SAM",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
