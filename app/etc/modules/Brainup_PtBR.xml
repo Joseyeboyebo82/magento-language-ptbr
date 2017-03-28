@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<!--
+ * Mario SAM translate PtBR
+ -->
+
+<config>
+    <modules>
+        <Brainup_PtBR>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Brainup_PtBR>
+    </modules>
+</config>

@@ -1,3 +1,5 @@
 ## Modman Module Language ptbr
-pt_BR/*                               app/locale/pt_BR/
-rwd/default/locale/pt_BR/*            app/design/frontend/rwd/default/locale/pt_BR/
+app/code/community/Brainup/*          				app/code/community/Brainup/
+app/design/frontend/rwd/default/locale/pt_BR/*      app/design/frontend/rwd/default/locale/pt_BR/
+app/etc/modules/*                                	app/etc/modules/
+app/locale/pt_BR/*                               	app/locale/pt_BR/
